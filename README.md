@@ -1,4 +1,5 @@
-Credit Risk Analysis - Paisabazaar 🏦📊
+#Credit Risk Analysis - Paisabazaar 🏦📊
+
 This project involves analyzing a Credit Score Dataset from Paisabazaar to evaluate customer creditworthiness using machine learning and deep learning techniques. The dataset offers detailed demographic, financial, and credit history information of customers to help build predictive models for credit risk assessment.
 
 📁 Dataset Overview
