@@ -81,3 +81,10 @@ To clean, analyze, and model customer credit data to identify key features that 
 - Can be integrated into APIs or dashboard applications
 
 ---
+
+## 🚀 Future Improvements
+
+- Deploy model using **Flask** or **FastAPI**
+- Explore **deep learning** models (ANN)
+- Integrate visual analytics with **Power BI/Tableau**
+
